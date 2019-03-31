@@ -18,7 +18,7 @@
             "Techsemicolon\\": "src/"
         },
         "files": [
-            "helpers.php"
+            "src/Techsemicolon/helpers.php"
         ]
     }
 }
