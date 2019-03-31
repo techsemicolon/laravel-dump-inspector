@@ -37,7 +37,7 @@ dumper = window.dumper || function(){
 
     var tsCollapse = document.createElement('span');
     tsCollapse.className = 'ts_dumper_collapse';
-    tsCollapse.textContent = 'Collapse All';
+    tsCollapse.textContent = 'Minimise All';
     tsHeader.appendChild(tsCollapse);
 
     var tsExpand = document.createElement('span');
