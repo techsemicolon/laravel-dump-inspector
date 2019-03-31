@@ -40,7 +40,7 @@ You can make use of `Expand All` action to expand all dumps like below :
 
 ## Wait.. There is more :
 
-If there is only single variable passed to the idump, it returns the same which helps you to actually chain commands and use dump between like below : 
+If there is a single variable passed to the `idump()` helper function, it returns the same value which helps you to actually chain functions and use dump between like below : 
 
 ~~~php
 <?php 
