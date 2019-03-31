@@ -15,13 +15,13 @@ idump($user);
 This will make your page appear as it is and will add a button on top right to open the inspector like below : 
 
 <p align="center">
-    <img alt="Closed Laravel Dumper" src="images/Closed.png" width="500">
+    <img alt="Closed Laravel Dumper" src="images/Closed.png">
 </p>
 
 Once you click on `Open Laravel Dumper` button, it will open very clean and simple inspector window like below : 
 
 <p align="center">
-    <img alt="Closed Laravel Dumper" src="images/Opened.png" width="500">
+    <img alt="Closed Laravel Dumper" src="images/Opened.png">
 </p>
 
 You can have multiple dumps anywhere in your project. Those will be stacked inside the inspector one after another.
@@ -29,13 +29,13 @@ You can have multiple dumps anywhere in your project. Those will be stacked insi
 You can make use of `Minimise All` action to collapse all dumps like below :
 
 <p align="center">
-    <img alt="Closed Laravel Dumper" src="images/Minimised.png" width="500">
+    <img alt="Closed Laravel Dumper" src="images/Minimised.png">
 </p>
 
 You can make use of `Expand All` action to expand all dumps like below :
 
 <p align="center">
-    <img alt="Closed Laravel Dumper" src="images/Expanded.png" width="500">
+    <img alt="Closed Laravel Dumper" src="images/Expanded.png">
 </p>
 
 ## Wait.. There is more :

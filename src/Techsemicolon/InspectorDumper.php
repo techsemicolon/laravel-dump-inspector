@@ -312,7 +312,7 @@ pre.sf-dump a {
     position: absolute; right: 40px; top : 0; font-size: 14px; border-right: 1px solid #ccc; padding: 0 15px; cursor: pointer;
 }
 .ts_dumper_expand {
-    position: absolute; right: 140px; top: 0; font-size: 14px; border-right: 1px solid #ccc; padding: 0 15px; cursor: pointer;
+    position: absolute; right: 160px; top: 0; font-size: 14px; border-right: 1px solid #ccc; padding: 0 15px; cursor: pointer;
 }
 EOHTML;
 
