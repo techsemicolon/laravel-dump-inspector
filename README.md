@@ -1,4 +1,4 @@
-# A laravel package for inspecting dumps without interfering actual web page
+# Inspect dumps without interfering actual web page
 
 Laravel has very cool `dump()` and `dd()` functions. However, sometimes it is not always pleasant to have those dumps on the main web view. This package enabled a very lightweight inspector just like devtools of the browser where all the dumps are stored.
 
