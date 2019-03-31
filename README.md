@@ -49,6 +49,10 @@ If there is only single variable passed to the idump, it returns the same which 
 $user = idump(\App\User::where('name', 'like', '%john'))->first();
 ~~~
 
+## Version Support : 
+
+Works on Laravel Version 5.2 and above.
+
 It is not recommended to use this on production environment. This is just to help you during the development lifecycle to make debugging more user friendly.
 ## License : 
 
